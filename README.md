@@ -19,7 +19,7 @@ Add in the Info.plist
                 <string></string>
             </array>
         </dict>
-    </array>
+</array>
 
 Please add GoogleService-Info.plist file for iOS and Google-service.json for Android. 
 
